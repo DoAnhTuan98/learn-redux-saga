@@ -1,24 +1,33 @@
-import logo from './logo.svg';
+import React  from 'react';
 import './App.css';
+import Header from './components/Header'
+import Main from './components/Main'
+import { createStore,applyMiddleware } from 'redux'
+import { Provider } from 'react-redux'
+import appReducers from './reducers'
+import thunk from 'redux-thunk'
+
+const store = createStore(appReducers, applyMiddleware(thunk))
 
 function App() {
+
+  const getProducts = (products) => {
+    funcSetProducts(products)
+  }
+
+  let funcSetProducts
+
+  let getFunc = (func) => {
+    funcSetProducts = func
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider store={store}>
+      <div className="container-fluid">
+        <Header getProducts={getProducts}/>
+        <Main getFunc={getFunc}/>
+      </div>
+    </Provider>
   );
 }
 

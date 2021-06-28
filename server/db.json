@@ -1,0 +1,1077 @@
+{
+  "products": [
+    {
+      "name": "Insignia™ - 3' 3.5mm Audio Cable - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5019113_sb.jpg",
+      "price": 14.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 1
+    },
+    {
+      "name": "Insignia™ - 6' 3.5mm Audio Cable - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5019219_sb.jpg",
+      "price": 16.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 2
+    },
+    {
+      "name": "Insignia™ - 3' 3.5mm Audio Cable - White",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5019177_sb.jpg",
+      "price": 14.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 3
+    },
+    {
+      "name": "Griffin Technology - Flat Aux Stereo Audio Cable - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/2182057_sb.jpg",
+      "price": 19.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 4
+    },
+    {
+      "name": "iSimple - Call Cassette Adapter - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5582005_sb.jpg",
+      "price": 18.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 5
+    },
+    {
+      "name": "Beats by Dr. Dre - 4.5' 3.5mm Audio Cable - Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/2337018_sb.jpg",
+      "price": 19.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 6
+    },
+    {
+      "name": "Griffin Technology - Mossy Oak 3' Auxiliary Audio Cable - Blaze Orange",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5207039_sb.jpg",
+      "price": 17.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 7
+    },
+    {
+      "name": "Insignia™ - 6' 5-Way Stereo Splitter - White",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5038019_rb.jpg",
+      "price": 19.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 8
+    },
+    {
+      "name": "Insignia™ - 3' 3.5mm Audio Cable - Purple",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4289983_sb.jpg",
+      "price": 12.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 9
+    },
+    {
+      "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/1672647_sb.jpg",
+      "price": 19.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 10
+    },
+    {
+      "name": "Insignia™ - 3' 3.5mm Audio Cable - Green",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4289984_sb.jpg",
+      "price": 12.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 11
+    },
+    {
+      "name": "Insignia™ - 3' 3.5mm Audio Cable - Blue",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4289996_sb.jpg",
+      "price": 12.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 12
+    },
+    {
+      "name": "Insignia™ - 3' 3.5mm Audio Cable - Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4289992_sb.jpg",
+      "price": 12.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 13
+    },
+    {
+      "name": "iSimple - Dash-Mount Audio Input Kit",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9252159_sb.jpg",
+      "price": 24.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 14
+    },
+    {
+      "name": "iSimple - Call Jax Plus 3.5mm Audio Cable - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8678017_sb.jpg",
+      "price": 39.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 15
+    },
+    {
+      "name": "ReTrak - Premier 6' 2.0-to-3.5mm Audio Cable - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4218202_sb.jpg",
+      "price": 14.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "auxiliary input cables",
+      "id": 16
+    },
+    {
+      "name": "Insignia™ - Portable CD Player - Black/Charcoal",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8222915_sb.jpg",
+      "price": 24.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 17
+    },
+    {
+      "name": "Insignia™ - CD Boombox with AM/FM Tuner - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9183279_sb.jpg",
+      "price": 29.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 18
+    },
+    {
+      "name": "Insignia™ - CD/Cassette Boombox with AM/FM Radio - Black/Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/1681408_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 19
+    },
+    {
+      "name": "Insignia™ - Tabletop HD Radio - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4888900_rb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 20
+    },
+    {
+      "name": "Insignia™ - Portable CD Player with FM Tuner and MP3 Playback - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9139826_rb.jpg",
+      "price": 39.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 21
+    },
+    {
+      "name": "Sony - CD Boombox - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6430022_sb.jpg",
+      "price": 99.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 22
+    },
+    {
+      "name": "Memorex - Flexbeats Boombox - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5428100_rb.jpg",
+      "price": 39.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 23
+    },
+    {
+      "name": "Sony - Portable Digital AM/FM Radio with Weather Band - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8692471_sb.jpg",
+      "price": 41.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "docks radios",
+      "id": 24
+    },
+    {
+      "name": "Apple - EarPods™ with Remote and Mic - White",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+      "price": 29.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 25
+    },
+    {
+      "name": "Beats by Dr. Dre - Powerbeats2 Wireless Earbud Headphones - Black/Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5565002_sb.jpg",
+      "price": 199.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 26
+    },
+    {
+      "name": "Apple - AirPods - White",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5577872_rb.jpg",
+      "price": 159.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 27
+    },
+    {
+      "name": "LG - Tone Ultra Wireless Stereo Headset - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4280500_rb.jpg",
+      "price": 99.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 28
+    },
+    {
+      "name": "Beats by Dr. Dre - Powerbeats2 Wireless Earbud Headphones - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4315000_sb.jpg",
+      "price": 199.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 29
+    },
+    {
+      "name": "Skullcandy - Ink'd 2 Earbud Headphones - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6461052_sb.jpg",
+      "price": 19.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 30
+    },
+    {
+      "name": "Beats by Dr. Dre - Beats Studio Wireless Over-the-Ear Headphones - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3044852_rb.jpg",
+      "price": 379.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 31
+    },
+    {
+      "name": "Sony - ZX Series On-Ear Headphones - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8618232_sb.jpg",
+      "price": 19.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "headphones",
+      "id": 32
+    },
+    {
+      "name": "Samsung - 2.1-Channel Soundbar System with Wireless Subwoofer - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4924701_sb.jpg",
+      "price": 229.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "brand" : "samsung",
+      "id": 33
+    },
+    {
+      "name": "Samsung - 3.1-Channel Soundbar System with Wireless Subwoofer - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4924902_sb.jpg",
+      "price": 329.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "brand" : "samsung",
+      "id": 34
+    },
+    {
+      "name": "Samsung - 2.1-Channel Soundbar System with Wireless Subwoofer and Digital Amplifier - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4925100_sb.jpg",
+      "price": 169.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "brand" : "samsung",
+      "id": 35
+    },
+    {
+      "name": "Insignia™ - 2.0-Channel Soundbar with Digital Amplifier - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5225704_sb.jpg",
+      "price": 79.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "id": 36
+    },
+    {
+      "name": "SONOS - PLAY:1 Wireless Speaker for Streaming Music - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/1648801_sb.jpg",
+      "price": 199.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "id": 37
+    },
+    {
+      "name": "VIZIO - 2.0-Channel Soundbar with Bluetooth - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4969606_sb.jpg",
+      "price": 99.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "id": 38
+    },
+    {
+      "name": "Bose® - Solo 5 TV Soundbar - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5009300_sb.jpg",
+      "price": 249.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "id": 39
+    },
+    {
+      "name": "Yamaha - 700W 5.1-Ch 4K Ultra HD and 3D Pass-Through A/V Home Theater Receiver - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5017701_sb.jpg",
+      "price": 279.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "home audio",
+      "id": 40
+    },
+    {
+      "name": "SanDisk - Clip Sport Plus 16GB* Bluetooth MP3 Player - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5508200_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 41
+    },
+    {
+      "name": "SanDisk - Clip Jam 8GB* MP3 Player - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5228207_sb.jpg",
+      "price": 34.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 42
+    },
+    {
+      "name": "SanDisk - Clip Sport 8GB* MP3 Player - Blue",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3761037_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 43
+    },
+    {
+      "name": "SanDisk - Clip Sport Plus 16GB* Bluetooth MP3 Player - Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5508202_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 44
+    },
+    {
+      "name": "Apple - iPod nano® 16GB MP3 Player (8th Generation - Latest Model) - Space Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6932993_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 45
+    },
+    {
+      "name": "Apple - iPod nano® 16GB MP3 Player (8th Generation - Latest Model) - Gold",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6933055_sb.jpg",
+      "price": 159.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 46
+    },
+    {
+      "name": "Apple - iPod shuffle® 2GB MP3 Player (6th Generation - Latest Model) - White & Silver",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6933783_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 47
+    },
+    {
+      "name": "Apple - iPod nano® 16GB MP3 Player (8th Generation - Latest Model) - Blue",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6933765_sb.jpg",
+      "price": 60,
+      "rate": 4,
+      "category": "audio",
+      "subcategory": "ipod and mp3 players",
+      "id": 48
+    },
+    {
+      "name": "Nikon - ACULON A30 10x25 Binoculars - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/7475021_rb.jpg",
+      "price": 60,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 49
+    },
+    {
+      "name": "Nikon - ACULON A211 8x42 Binoculars - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/7428029_rb.jpg",
+      "price": 69,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 50
+    },
+    {
+      "name": "Nikon - PROSTAFF 3S 8 x 42 Binoculars - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5278800_rb.jpg",
+      "price": 119,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 51
+    },
+    {
+      "name": "Nikon - MONARCH 5 8x42 Binoculars - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4617700_rb.jpg",
+      "price": 229.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 52
+    },
+    {
+      "name": "Nikon - COOLSHOT 6 x 20 Golf Rangefinder",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5229500_rb.jpg",
+      "price": 109.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 53
+    },
+    {
+      "name": "Canon - IS III 12 x 36 Binoculars - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4331405_rb.jpg",
+      "price": 89.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 54
+    },
+    {
+      "name": "Celestron - Cypress 10 x 25 Compact Waterproof Binoculars - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9600333_rb.jpg",
+      "price": 89.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 55
+    },
+    {
+      "name": "Barska - Trend 12x32 Binocular",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3682696_220x220_rb.jpg",
+      "price": 23.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "binoculars",
+      "id": 56
+    },
+    {
+      "name": "Canon - VIXIA HF R700 HD Flash Memory Camcorder - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4888402_rb.jpg",
+      "price": 239.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "camcorders",
+      "id": 57
+    },
+    {
+      "name": "Sony - Handycam CX405 Flash Memory Camcorder - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/2964179_rb.jpg",
+      "price": 219.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "camcorders",
+      "id": 58
+    },
+    {
+      "name": "Samsung - Gear 360 Video Camera",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5118103_rb.jpg",
+      "price": 349.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "camcorders",
+      "brand" : "samsung",
+      "id": 59
+    },
+    {
+      "name": "Canon - VIXIA HF R72 32GB HD Flash Memory Camcorder - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4888600_rb.jpg",
+      "price": 349.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "camcorders",
+      "id": 60
+    },
+    {
+      "name": "Nikon - Coolpix AW130 16.0-Megapixel Waterproof Digital Camera - Orange",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3574072_sb.jpg",
+      "price": 349.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "digital cameras",
+      "id": 61
+    },
+    {
+      "name": "Fujifilm - instax mini 8 Instant Film Camera - Blue",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/1319385_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "digital cameras",
+      "id": 62
+    },
+    {
+      "name": "Polaroid - Snap 10.0-Megapixel Digital Camera - White",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4416001_sb.jpg",
+      "price": 99.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "digital cameras",
+      "id": 63
+    },
+    {
+      "name": "Nikon - D3400 DSLR Camera with AF-P DX 18-55mm G VR and 70-300mm G ED Lenses - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5580131_sb.jpg",
+      "price": 899.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "digital cameras",
+      "id": 64
+    },
+    {
+      "name": "SanDisk - Ultra Plus 32GB microSDHC Class 10 UHS-1 Memory Card - Gray/Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3142635_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "memory cards",
+      "id": 65
+    },
+    {
+      "name": "SanDisk - Ultra Plus 32GB SDHC Class 10 UHS-1 Memory Card - Black/Gray/Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3142553_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "memory cards",
+      "id": 66
+    },
+    {
+      "name": "Insignia™ - USB 2.0 SD/MMC Memory Card Reader - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3602009_sb.jpg",
+      "price": 8.49,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "memory cards",
+      "id": 67
+    },
+    {
+      "name": "SanDisk - Extreme PLUS 64GB microSDXC UHS-I Class U-1 Memory Card - Red/Gold",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9387093_sb.jpg",
+      "price": 148.49,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "memory cards",
+      "id": 68
+    },
+    {
+      "name": "Celestron Deluxe Handheld Digital Microscope  Black Orange",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5395617_rb.jpg",
+      "price": 48.49,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 69
+    },
+    {
+      "name": "Celestron - Prepared Microscope Slides (100-Count)",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5014422_220x260_sb.jpg",
+      "price": 57.49,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 70
+    },
+    {
+      "name": "Celestron - LCD Digital Microscope II",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9761156_rb.jpg",
+      "price": 199.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 71
+    },
+    {
+      "name": "Barska - Microscope",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/3682887_sb.jpg",
+      "price": 344.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "price_range" : "240 - 1820",
+      "id": 72
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 73
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 74
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 75
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 76
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 77
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 78
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 79
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 80
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 81
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 82
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 83
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 84
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 85
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 86
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 87
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 88
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 89
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 90
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "id": 91
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "price_range" : "80 - 160",
+      "id": 92
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "price_range" : "80 - 160",
+      "id": 93
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "price_range" : "80 - 160",
+      "id": 94
+    },
+    {
+      "name": "Celestron - Infiniview LCD Digital Microscope - Gray",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/8918339_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "camerascamcorders",
+      "subcategory": "microscopes",
+      "price_range" : "80 - 160",
+      "id": 95
+    },
+    {
+      "name": "Verizon - Jetpack 4G LTE Mobile Hotspot - Black/Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/9940096_rb.jpg",
+      "price": 137.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "mobile broadband",
+      "price_range" : "80 - 160",
+      "id": 96
+    },
+    {
+      "name": "AT&T GoPhone - Samsung Galaxy Express 3 4G LTE with 8GB Memory Prepaid Cell Phone",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4984700_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "prepaid phones",
+      "id": 97
+    },
+    {
+      "name": "Boost Mobile - LG Tribute HD 4G LTE with 16GB Memory Prepaid Cell Phone - White",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5428602_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "prepaid phones",
+      "id": 98
+    },
+    {
+      "name": "AT&T GoPhone - Alcatel Ideal 4G LTE with 8GB Memory Prepaid Cell Phone - Slate Blue",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5443800_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "prepaid phones",
+      "id": 99
+    },
+    {
+      "name": "Cricket Wireless - Alcatel OneTouch Flint 4G with 16GB Memory Prepaid Cell Phone",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5215801_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "prepaid phones",
+      "id": 100
+    },
+    {
+      "name": "Apple - iPhone SE 16GB - Space Gray (Verizon)",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5005506_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "iphone",
+      "brand": "aplle",
+      "id": 101
+    },
+    {
+      "name": "Apple - iPhone SE 64GB - Space Gray (AT&T)",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5005675_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "iphone",
+      "brand": "aplle",
+      "id": 102
+    },
+    {
+      "name": "Apple - iPhone SE 16GB - Space Gray (Sprint)",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5005675_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "iphone",
+      "brand": "aplle",
+      "id": 103
+    },
+    {
+      "name": "Apple - iPhone 6s 32GB - Space Gray (AT&T)",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5005675_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "iphone",
+      "brand": "apple",
+      "id": 104
+    },
+    {
+      "name": "Gadget Guard - Screen Protector for Samsung Galaxy S7",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4983207_rb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "samsung galaxy",
+      "brand": "samsung",
+      "id": 105
+    },
+    {
+      "name": "Spigen - Rugged Armor Case for Samsung Galaxy S7 Cell Phones - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4993200_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "samsung galaxy",
+      "brand": "samsung",
+      "id": 106
+    },
+    {
+      "name": "Urban Armor Gear - Hard Shell for Samsung Galaxy Note 5 - Cobalt",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5691802_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "samsung galaxy",
+      "brand": "samsung",
+      "price_range" : "1 - 80",
+      "id": 107
+    },
+    {
+      "name": "ChargeHub - 7-Port USB Universal Charging Station - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4901836_sb.jpg",
+      "price": 49.99,
+      "rate": 4,
+      "category": "cellphones",
+      "subcategory": "samsung galaxy",
+      "brand": "samsung",
+      "id": 108
+    },
+    {
+      "name": "Dell - Inspiron 15.6' Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5588602_sb.jpg",
+      "price": 499.99,
+      "rate": 4,
+      "category": "computers",
+      "subcategory": "laptops",
+      "id": 109
+    },
+    {
+      "name": "Apple - MacBook Air® (Latest Model) - 13.3' Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg",
+      "price": 999.99,
+      "rate": 4,
+      "category": "computers",
+      "subcategory": "laptops",
+      "brand": "apple",
+      "price_range" : "4980",
+      "id": 110
+    },
+    {
+      "name": "HP - 15.6' Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5606300_sb.jpg",
+      "price": 259.99,
+      "rate": 4,
+      "category": "computers",
+      "subcategory": "laptops",
+      "price_range" : "160 - 240",
+      "id": 111
+    },
+    {
+      "name": "Lenovo - 100S-14IBR 14' Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Blue",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5579834_sb.jpg",
+      "price": 259.99,
+      "rate": 4,
+      "category": "computers",
+      "subcategory": "laptops",
+      "price_range" : "160 - 240",
+      "id": 112
+    },
+    {
+      "name": "ZAGG - InvisibleShield HD Screen Protector for Apple® iPad Pro 9.7' and Air2 and Air 1 - Clear",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/2908005_sb.jpg",
+      "price": 259.99,
+      "rate": 4,
+      "category": "computers",
+      "subcategory": "ipad",
+      "price_range" : "160 - 240",
+      "id": 113
+    },
+    {
+      "name": "Targus - Classic VersaVu Folio for Apple 9.7-inch iPad Pro, iPad Air 2 and Air - Red",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4993700_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "computers",
+      "brand": "apple",
+      "subcategory": "ipad",
+      "id": 114
+    },
+    {
+      "name": "Insignia™ - FlexView Folio Case for Most 10' Tablets - Purple",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/4744601_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "computers",
+      "brand": "insignia",
+      "subcategory": "ipad",
+      "price_range" : "1 - 80",
+      "id": 115
+    },
+    {
+      "name": "Targus - 3D Protection Folio for Apple 9.7-inch iPad Pro, iPad Air 2 and Air - Black",
+      "src": "https://cdn-demo.algolia.com/bestbuy-0118/5032600_sb.jpg",
+      "price": 59.99,
+      "rate": 4,
+      "category": "computers",
+      "brand": "apple",
+      "subcategory": "ipad",
+      "price_range" : "1 - 80",
+      "id": 116
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+.content-wrap {
+    margin-top: 77px !important;
+
+    .sidebar {
+        margin-top: 20px;
+        overflow-y: scroll;
+
+        button {
+            border: 1px solid #E1E1E1;
+            background-color: #fff;
+            color :#000;
+            margin-bottom: 10px;
+
+            .fa-trash-alt {
+                margin-right: 10px;
+            }
+
+            &:hover {
+                background-color: #E1E1E1;
+                color : #b32500;
+            }
+        }
+
+        .category {
+            margin-bottom: 30px;
+
+            .head-title {
+                color: #888;
+                font-size: 16px;
+            }
+
+            &-item {
+                .nav-link {
+                    color: #000;
+                    font-size: 14px;
+                    padding-left: 0 !important;
+
+                    .fa-chevron-right {
+                        margin-right: 5px;
+                    }
+
+                    &:hover {
+                        color : #b32500;
+                    }
+                }
+
+                .active {
+                    span {
+                        color : #b32500 !important;
+                    }
+                }
+
+                &-sub {
+                    margin-left: 10px;
+                    
+                    .nav-link {
+                        color: #000;
+                        // padding-left: 0 !important;
+                    }
+                    
+                    .active {
+                        color : #b32500 !important;
+                    }
+                }
+            }
+        }
+
+        .type-wrap {
+            font-size: 14px;
+            margin-bottom: 30px;
+
+            .type-title {
+                color : #888;
+                font-size: 16px;
+                margin-bottom: 10px;
+            }
+
+            .types {
+                .head-title {
+                    font-weight: 600;
+                }
+            }
+            
+        }
+
+        .brand-wrap {
+            font-size: 14px;
+            margin-bottom: 30px;
+
+            .brands {
+                .head-title {
+                    font-weight: 600;
+                }
+
+                .content {
+                    form {
+                        .form-check {
+                            .form-check-input {
+                                cursor: pointer;
+                            }
+
+                            .form-check-lable {
+                                cursor: pointer;
+                            }
+                        }
+                        .form-search {
+                            border: 1px solid #E1E1E1;
+                            border-radius: 5px;
+                            display: flex;
+                            width: 90%;
+                            
+                            input {
+                                border: none;
+                                border-radius: 5px;
+                                outline: none;
+                                width: 100%;
+                            }
+                            
+                            span {
+                                color: #337ab7;
+                                padding-left: 5px;
+                                padding-right: 10px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .price-wrap {
+            .prices {
+                .head-title {
+                    font-weight: 600;
+                }
+
+                .content {
+                    .nav-item {
+                        cursor: pointer;
+                    }
+                    .active {
+                        color:  #b32500 !important;
+                    }
+                }
+            }
+        }
+    }
+
+    .products-wrap {
+        .product-item {
+            border: 1px solid #E1E1E1;
+            padding : 10px 20px 20px;
+            margin-bottom: 0.7rem;
+            width: 24% !important;
+            
+            &-img-wrap {
+                margin-bottom: 5px;
+
+                img {
+                    height: 150px !important;
+                }
+            }
+
+            &-content {
+                &__name {
+                    color: #000;
+                    font-weight: 700;
+                    font-size: .9em;
+                    margin-bottom: 10px;
+                }
+
+                .price-and-rate-wrap {
+                    .product-item__price {
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+
+        .pagination-wrap {
+            .pagination {
+                .page-item {
+                    cursor: pointer;
+                }
+
+                .active {
+                    color : #b32500;
+                }
+            }
+        }
+    } 
+}
