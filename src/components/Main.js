@@ -66,14 +66,14 @@ const Main = (props) => {
         "Ink cartridges"
     ])
 
-    const [ activeCategory,setActiveCategory ] = useState('')
-    const [ activeSubCategory,setActiveSubCategory ] = useState('')
+    const [ activeCategory, setActiveCategory ] = useState('')
+    const [ activeSubCategory, setActiveSubCategory ] = useState('')
     const [ activePrice,setActivePrice ] = useState('')
-    const [page,setPage] = useState(1)
-    const [perPage] = useState(16)
-    const [numberButton] = useState(5)
+    const [ page, setPage ] = useState(1)
+    const [ perPage ] = useState(16)
+    const [ numberButton ] = useState(5)
 
-    useEffect( () => {
+    useEffect(() => {
         dispatch(actGetAllProductsRequest())
     },[dispatch])
 
