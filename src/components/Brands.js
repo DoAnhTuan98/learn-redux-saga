@@ -1,25 +1,26 @@
 import React, { useEffect, useState } from 'react'
 import { useDispatch } from 'react-redux';
-import { actGetAllProductsRequest,actFilterProductsByBrandRequest } from '../actions/index'
+import { 
+    actFilterProductsByBrandRequest, 
+} from '../actions/index'
 
 const Brands = () => {
-    const [status,setStatus] = useState({
-        isSamsung : false,
-        isMetra : false,
-        isHp : false,
-        isApple : false
+    const [status, setStatus] = useState({
+        isSamsung: false,
+        isMetra: false,
+        isHp: false,
+        isApple: false,
     })
 
     const dispatch = useDispatch()
 
     const handleChange = (e) => {
-        let target = e.target
-        let name = target.name
-        let brand = target.id
-        let value = target.type === 'checkbox' ? target.checked : target.value
+        const { target } = e
+        const { name } = target
+        const value = target.type === 'checkbox' ? target.checked : target.value
         setStatus({
             ...status,
-            [name]: value
+            [name]: value,
         })  
         // if (value) {
         //     dispatch(actFilterProductsByBrandRequest(brand))
@@ -31,7 +32,7 @@ const Brands = () => {
 
     useEffect(() => {
         dispatch(actFilterProductsByBrandRequest(status))
-    },[dispatch, status])
+    }, [dispatch, status])
 
     return (
         <section className="brand-wrap">
@@ -45,10 +46,10 @@ const Brands = () => {
                                 className="form-check-input" 
                                 type="checkbox"
                                 name="isSamsung"
-                                value={ status.isSamsung }
-                                onChange={ handleChange }
+                                value={status.isSamsung}
+                                onChange={handleChange}
                                 id="samsung"
-                                checked={ status.isSamsung === true }
+                                checked={status.isSamsung === true}
                             />
                             <label className="form-check-label" htmlFor="samsung">
                                 SamSung
@@ -59,10 +60,10 @@ const Brands = () => {
                                 className="form-check-input" 
                                 type="checkbox"
                                 name="isApple"
-                                value={ status.isApple }
-                                onChange={ handleChange }
+                                value={status.isApple}
+                                onChange={handleChange}
                                 id="apple"
-                                checked={ status.isApple === true }
+                                checked={status.isApple === true}
                             />
                             <label className="form-check-label" htmlFor="apple">
                                 Apple
@@ -73,10 +74,10 @@ const Brands = () => {
                                 className="form-check-input" 
                                 type="checkbox"
                                 name="isMetra"
-                                value={ status.isMetra }
-                                onChange={ handleChange }
+                                value={status.isMetra}
+                                onChange={handleChange}
                                 id="metra"
-                                checked={ status.isMetra === true }
+                                checked={status.isMetra === true}
                             />
                             <label className="form-check-label" htmlFor="metra">
                                 Metra
@@ -87,10 +88,10 @@ const Brands = () => {
                                 className="form-check-input" 
                                 type="checkbox"
                                 name="isHp"
-                                value={ status.isHp }
-                                onChange={ handleChange }
+                                value={status.isHp}
+                                onChange={handleChange}
                                 id="hp"
-                                checked={ status.isHp === true }
+                                checked={status.isHp === true}
                             />
                             <label className="form-check-label" htmlFor="hp">
                                 Hp

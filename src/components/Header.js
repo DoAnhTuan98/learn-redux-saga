@@ -1,12 +1,12 @@
-import React, { useState } from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
-import { actSearchProductsRequest,actGetAllProductsRequest } from '../actions/index'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import React, { useState } from 'react'
+import { useDispatch } from 'react-redux'
+import { actGetAllProductsRequest, actSearchProductsRequest } from '../actions/index'
 import '../scss/header.scss'
-import { useDispatch } from 'react-redux';
 
-const Header = (props) => {
-    const [inputValue,setInputValue] = useState('')
+const Header = () => {
+    const [inputValue, setInputValue] = useState('')
     // const debouncedValue = useDebounce(inputValue,500)
 
     const dispatch = useDispatch()
@@ -19,8 +19,7 @@ const Header = (props) => {
     const handleClick = () => {
         if (inputValue) {
             dispatch(actSearchProductsRequest(inputValue))
-        }
-        else {
+        } else {
             dispatch(actGetAllProductsRequest())
         }
     }
@@ -35,8 +34,8 @@ const Header = (props) => {
                     onChange={handleChange}
                     value={inputValue}
                 />
-                <span  onClick={handleClick}>
-                    <FontAwesomeIcon icon={faSearch}/>
+                <span onClick={handleClick}>
+                    <FontAwesomeIcon icon={faSearch} />
                 </span>
             </form>
         </div>

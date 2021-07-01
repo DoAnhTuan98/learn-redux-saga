@@ -4,8 +4,8 @@ const Types = (props) => {
     const { types } = props
     
     const showFormCheck = (types) => {
-        let result = types.map((type,index) => {
-            let id = type.replace(/ /g,'')
+        const result = types.map((type, index) => {
+            const id = type.replace(/ /g, '')
             return (
                 <div className="form-check" key={index}>
                     <input className="form-check-input" type="checkbox" value="" id={id} />

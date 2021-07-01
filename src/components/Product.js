@@ -1,14 +1,14 @@
-import React from 'react';
+import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStar } from '@fortawesome/free-solid-svg-icons'
 
 const Product = (props) => {
-    let { product } = props 
+    const { product } = props 
 
     return (
         <div className="col-md-3 product-item">
             <div className="product-item-img-wrap">
-                <img className="img-fluid" src={product.src} alt="product"></img>
+                <img className="img-fluid" src={product.src} alt="product" />
             </div>
             <div className="product-item-content">
                 <div className="product-item-content__name">{product.name}</div>
@@ -30,7 +30,10 @@ const Product = (props) => {
                             <FontAwesomeIcon icon={faStar} />
                         </span>
                     </div>
-                    <div className="product-item__price">${product.price}</div>
+                    <div className="product-item__price">
+                        $
+                        {product.price}
+                    </div>
                 </div>
             </div>
         </div>
