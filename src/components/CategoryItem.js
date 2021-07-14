@@ -5,7 +5,7 @@ import { useDispatch } from 'react-redux';
 import { 
     actFilterProductsByCategoryRequest,
     actFilterProducstBySubcategoryRequest, 
-    actGetAllProductsRequest,
+    getAllProducts,
 } from '../actions/index'
 
 const CategoryItem = (props) => {
@@ -31,7 +31,7 @@ const CategoryItem = (props) => {
 
     const handleFilterCategory = async (category) => {
         if (category === activeCategory) {
-            dispatch(actGetAllProductsRequest())
+            dispatch(getAllProducts())
             getActiveSubCategory('')
         } else {
             dispatch(actFilterProductsByCategoryRequest(category))

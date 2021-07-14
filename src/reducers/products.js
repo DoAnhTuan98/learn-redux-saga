@@ -5,9 +5,14 @@ const inititalState = []
 
 const products = (state = inititalState, actions) => {
     switch (actions.type) {
-        case Types.GET_ALL_PRODUCTS:
+        // case Types.GET_ALL_PRODUCTS:
+        //     state = actions.products
+        //     return [...state]
+        case Types.GET_ALL_PRODUCTS_SUCCESS:
             state = actions.products
             return [...state]
+        // case Types.GET_ALL_PRODUCTS_SAGAS:
+        //     return [...state]
         case Types.FILTER_PRODUCTS_BY_CATEGORY: 
             state = actions.products
             return [...state]
@@ -28,7 +33,7 @@ const products = (state = inititalState, actions) => {
                 return [...newState]
             }
             return [...state]
-        case Types.SEARCH_PRODUCTS: 
+        case Types.SEARCH_PRODUCTS_SUCCESS: 
             state = actions.products
             return [...state]
         case Types.FILTER_PRODUCTS_BY_PRICERANGE: 

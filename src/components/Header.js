@@ -2,7 +2,7 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React, { useState } from 'react'
 import { useDispatch } from 'react-redux'
-import { actGetAllProductsRequest, actSearchProductsRequest } from '../actions/index'
+import { searchProducts } from '../actions/index'
 import '../scss/header.scss'
 
 const Header = () => {
@@ -13,14 +13,15 @@ const Header = () => {
 
     const handleChange = (e) => {
         setInputValue(e.target.value)
-        dispatch(actSearchProductsRequest(e.target.value))
+        dispatch(searchProducts(e.target.value))
     }
  
     const handleClick = () => {
         if (inputValue) {
-            dispatch(actSearchProductsRequest(inputValue))
+            dispatch(searchProducts(inputValue))
         } else {
-            dispatch(actGetAllProductsRequest())
+            // dispatch(actGetAllProductsRequest())
+            
         }
     }
 

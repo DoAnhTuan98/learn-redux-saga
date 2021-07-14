@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Button } from 'reactstrap';
-import { actGetAllProductsRequest } from '../actions/index';
+import { getAllProducts } from '../actions/index';
 import '../scss/main.scss';
 import Brands from './Brands';
 import CategoryItem from './CategoryItem';
@@ -73,7 +73,7 @@ const Main = () => {
     const [numberButton] = useState(5)
 
     useEffect(() => {
-        dispatch(actGetAllProductsRequest())
+        dispatch(getAllProducts())
     }, [dispatch])
 
     // handle pagination
@@ -129,7 +129,7 @@ const Main = () => {
     }
 
     const handleClickClear = async () => {
-        dispatch(actGetAllProductsRequest())
+        dispatch(getAllProducts())
         setActiveCategory('')
         setActiveSubCategory('')
         setActivePrice('')

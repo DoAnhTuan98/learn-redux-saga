@@ -1,20 +1,51 @@
 import * as Types from '../constants/ActionTypes'
 import callApi from '../utils/apiCaller'
 
-export const actGetAllProducts = (products) => {
+export const ShowLoading = () => {
+    return {
+        type: Types.SHOW_LOADING,
+    }
+}
+
+export const HideLoading = () => {
+    return {
+        type: Types.HIDE_LOADING,
+    }
+}
+
+export const getAllProducts = () => {
     return {
         type: Types.GET_ALL_PRODUCTS,
+    }
+}
+
+export const getAllProductsSuccess = (products) => {
+    return {
+        type: Types.GET_ALL_PRODUCTS_SUCCESS,
         products,
     }
 }
 
-export const actGetAllProductsRequest = () => {
-    return async (dispatch) => {
-        const res = await callApi('products', 'GET', null)
-        const products = res.data
-        dispatch(actGetAllProducts(products))
+export const getAllProductsFailed = () => {
+    return {
+        type: Types.GET_ALL_PRODUCTS_SAGAS_FAILED,
     }
 }
+
+// export const actGetAllProducts = (products) => {
+//     return {
+//         type: Types.GET_ALL_PRODUCTS,
+//         products,
+//     }
+// }
+
+// export const actGetAllProductsRequest = () => {
+//     return async (dispatch) => {
+//         const res = await callApi('products', 'GET', null)
+//         const products = res.data
+//         dispatch(actGetAllProducts(products))
+//     }
+// }
 
 export const actFilterProductsByCategory = (products) => {
     return {
@@ -25,8 +56,12 @@ export const actFilterProductsByCategory = (products) => {
 
 export const actFilterProductsByCategoryRequest = (category) => {
     return async (dispatch) => {
+        dispatch(ShowLoading())
         const res = await callApi(`products?category=${category.toLowerCase().replace(/ /g, '')}`, 'GET', null)
         const products = res.data
+        setTimeout(() => {
+            dispatch(HideLoading())
+        }, 500);
         dispatch(actFilterProductsByCategory(products))
     }
 }
@@ -40,7 +75,11 @@ export const actFilterProducstBySubcategory = (products) => {
 
 export const actFilterProducstBySubcategoryRequest = (category, subcategory) => {
     return async (dispatch) => {
+        dispatch(ShowLoading())
         const res = await callApi(`products?category=${category.toLowerCase().replace(/ /g, '')}&subcategory=${subcategory.toLowerCase()}`)
+        setTimeout(() => {
+            dispatch(HideLoading())
+        }, 500);
         const products = res.data
         dispatch(actFilterProducstBySubcategory(products))
     }
@@ -62,9 +101,9 @@ export const actFilterProductsByBrandRequest = (status) => {
             isMetra,
         } = status
         if (!isSamsung && !isApple && !isHp && !isMetra) {
-            const res = await callApi('products', 'GET', null)
-            const products = res.data
-            dispatch(actFilterProductsByBrand(products))
+            // const res = await callApi('products', 'GET', null)
+            // const products = res.data
+            // dispatch(actFilterProductsByBrand(products))
         } else {
             const res = await callApi(`products?brand=${isSamsung ? 'samsung' : ''}&brand=${isApple ? 'apple' : ''}&brand=${isHp ? 'hp' : ''}&brand=${isMetra ? 'metra' : ''}`, 'GET', null)
             const products = res.data
@@ -80,17 +119,36 @@ export const actSortProducts = (sortType) => {
     }
 }
 
-export const actSearchProducts = (products) => {
+export const searchProducts = (keyword) => {
     return {
         type: Types.SEARCH_PRODUCTS,
+        keyword,
+    }
+}
+
+export const searchProductsSuccess = (products) => {
+    return {
+        type: Types.SEARCH_PRODUCTS_SUCCESS,
         products,
     }
 }
 
+// export const actSearchProducts = (products) => {
+//     return {
+//         type: Types.SEARCH_PRODUCTS,
+//         products,
+//     }
+// }
+
 export const actSearchProductsRequest = (keyword) => {
     return async (dispatch) => {
+        dispatch(ShowLoading())
         const res = await callApi(`products?name_like=${keyword}`, 'GET', null)
         const products = res.data
+        // setTimeout(() => {
+        //     dispatch(HideLoading())
+        // }, 1000);
+        // dispatch(HideLoading())
         dispatch(actSearchProducts(products))
     }
 }

@@ -10,7 +10,7 @@ import {
 } from 'reactstrap';
 import { 
     actFilterProductsByPriceRequest,
-    actGetAllProductsRequest,
+    getAllProducts,
     actFilterProductsByInputValueRequest, 
 } from '../actions/index'
 
@@ -36,7 +36,7 @@ const Prices = () => {
     const handleClick = (price) => {
         if (price === activePriceRange) {
             setActivePriceRange('')
-            dispatch(actGetAllProductsRequest())
+            dispatch(getAllProducts())
         } else {
             setActivePriceRange(price)
             dispatch(actFilterProductsByPriceRequest(price))
